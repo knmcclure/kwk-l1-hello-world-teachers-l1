@@ -1,1 +1,1 @@
-"kwk"
+puts "Hello world!"
